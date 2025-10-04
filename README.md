@@ -2,9 +2,9 @@
 
 Submitted by: **Obaloluwa Wojuade**
 
-**Flixer2** is a movie browsing app that allows users to browse ... [TODO] 
+**Flixer2** is a movie browsing app that allows users to browse  
 
-Time spent: **8** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories: ![WishIt App Walkthrough](Screen_recording_20251003_210416.mp4)
+Here's a walkthrough of implemented user stories: ![WishIt App Walkthrough](https://drive.google.com/file/d/1SPvOxSvvKXhoGKwgqKa2sU1qk3zq77Dy/view?usp=sharing)
 
 
 <img src='https://submissions.us-east-1.linodeobjects.com/and102/G5B4K6Qv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
