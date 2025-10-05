@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories: ![WishIt App Walkthrough](https://drive.google.com/file/d/1SPvOxSvvKXhoGKwgqKa2sU1qk3zq77Dy/view?usp=sharing)
+https://drive.google.com/file/d/1SPvOxSvvKXhoGKwgqKa2sU1qk3zq77Dy/view?usp=sharing
 
 
 <img src='https://submissions.us-east-1.linodeobjects.com/and102/G5B4K6Qv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
